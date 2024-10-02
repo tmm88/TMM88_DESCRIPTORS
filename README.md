@@ -1,2 +1,2 @@
-# tmm88_descriptors
-tmm88_descriptors
+# TMM88_DESCRIPTORS
+TMM88_DESCRIPTORS
