@@ -1,0 +1,111 @@
+{
+    "glossary": {
+      "title": "MACHINE LEARNING DESCRIPTORS PARA GERAÇÃO DE SOFTWARE COM IA",
+      "GlossDiv": [
+        {
+          "title": "COMPOSIÇÃO ALGORITMICA COM META PROGRAMAÇÃO",
+          "GlossList": [
+            {
+              "GlossEntry": {
+                "ID": "COMPOSIÇÃO_ALGORITMICA_1",
+                "SortAs": "CA_1",
+                "GlossTerm": "COMPOSIÇÃO ALGORITMICA COM META PROGRAMAÇÃO #1",
+                "Acronym": "CA_1",
+                "GlossDef": {
+                  "description": "USAR-SE UMA CAMADA DE ABSTRACÇÃO COM LLMs PARA GERAR JSMIDGEN FILES, PARA DEPOIS RENDERIZAR COMPOSIÇÕES MIDI E GERAR FICHEIROS DE MUSICA COM A STACK DE MUSESCORE"
+                }
+              }
+            },
+            {
+              "GlossEntry": {
+                "ID": "COMPOSIÇÃO_ALGORITMICA_2",
+                "SortAs": "CA_2",
+                "GlossTerm": "COMPOSIÇÃO ALGORITMICA COM META PROGRAMAÇÃO #2",
+                "Acronym": "CA_2",
+                "GlossDef": {
+                  "description": "USAR-SE UMA CAMADA DE ABSTRACÇÃO COM LLMs PARA GERAR PYDUB FILES, PARA DEPOIS RENDERIZAR COMPOSIÇÕES MIDI E GERAR FICHEIROS DE MUSICA COM BIBLIOTECAS DE STEMS, COM AUDIO SEGMENTADO, PARA CRIAR MUSICA A PARTIR DE COISAS QUE JA EXISTAM"
+                }
+              }
+            },
+            {
+              "GlossEntry": {
+                "ID": "COMPOSIÇÃO_ALGORITMICA_3",
+                "SortAs": "CA_3",
+                "GlossTerm": "COMPOSIÇÃO ALGORITMICA COM META PROGRAMAÇÃO #3",
+                "Acronym": "CA_3",
+                "GlossDef": {
+                  "description": "COMBINAR-SE A IDEIA DESCRITA EM CA_2 COM DATASCRAPPING A PARTIR DE SITES COMO O BANDCAMP, O YOUTUBE, OU O SOUNDCLOUD"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "INTEROPERABILIZAÇÃO DE SERVIÇOS COM VRARXRMR",
+          "GlossList": [
+            {
+              "GlossEntry": {
+                "ID": "INTEROPERABILIZAÇÃO_DE_SERVIÇOS_COM_VRARXRMR_1",
+                "SortAs": "VRARXRMR_1",
+                "GlossTerm": "INTEROPERABILIZAÇÃO DE SERVIÇOS COM VRARXRMR #1",
+                "Acronym": "VRARXRMR_1",
+                "GlossDef": {
+                  "description": "VARRER-SE A FOOTPRINT MENTAL INTEIRA DE PESSOAS EM DETERMINADOS MEIOS COM DATASCRAPPING, PROCESSAR ISSO COM MACHINE_LEARNING, E COLOCAR ESSA INFORMAÇÃO A DISPOSIÇÃO DE OUTRAS PESSOAS PARA FINS DE ESTUDO, COM TESTES OPTOMETRICOS, OU MELHOR AINDA, COM LLMs CRUZADOS COM ROBOS"
+                }
+              }
+            },
+            {
+              "GlossEntry": {
+                "ID": "INTEROPERABILIZAÇÃO_DE_SERVIÇOS_COM_VRARXRMR_2",
+                "SortAs": "VRARXRMR_2",
+                "GlossTerm": "INTEROPERABILIZAÇÃO DE SERVIÇOS COM VRARXRMR #2",
+                "Acronym": "VRARXRMR_2",
+                "GlossDef": {
+                  "description": "FAZER-SE A MESMA COISA QUE EM VRARXRMR_1 COM GEFORCE EXPERIENCE"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "GERAÇÃO PROCEDURAL DE CGI",
+          "GlossList": [
+            {
+              "GlossEntry": {
+                "ID": "GERAÇÃO_PROCEDURAL_DE_CGI_1",
+                "SortAs": "CG_1",
+                "GlossTerm": "GERAÇÃO PROCEDURAL DE CGI #1",
+                "Acronym": "CG_1",
+                "GlossDef": {
+                  "description": "COMBINAR-SE LLMS COM COM PYTHON BLENDER E ASSETS DE JOGOS ANTIGOS PARA GERAR CGI CLIPS"
+                }
+              }
+            },
+            {
+              "GlossEntry": {
+                "ID": "GERAÇÃO_PROCEDURAL_DE_CGI_2",
+                "SortAs": "CG_2",
+                "GlossTerm": "GERAÇÃO PROCEDURAL DE CGI #2",
+                "Acronym": "CG_2",
+                "GlossDef": {
+                  "description": "COMBINAR-SE LLMS COM COM PYTHON BLENDER E SHADERS PARA GERAR CGI CLIPS"
+                }
+              }
+            },
+            {
+              "GlossEntry": {
+                "ID": "GERAÇÃO_PROCEDURAL_DE_CGI_3",
+                "SortAs": "CG_3",
+                "GlossTerm": "GERAÇÃO PROCEDURAL DE CGI #3",
+                "Acronym": "CG_3",
+                "GlossDef": {
+                  "description": "COMBINAR-SE LLMS COM COM PYTHON BLENDER ASSETS DE JOGOS ANTIGOS E UE5 PARA GERAR CGI CLIPS"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
